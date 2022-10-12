@@ -18,5 +18,8 @@
     <ClCompile Include="Aula_05_01_Multithreading.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Aula_05_02_Multithreading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
